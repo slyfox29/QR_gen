@@ -52,7 +52,7 @@ Once you have downloaded the repository, follow these steps:
    You will be prompted to enter the text you want to convert to a QR code and the name of the output image file (without the extension).
 
    ```sh
-   Enter text to generate QR: Your text here
+   Enter text to generate QR: Your text or url
    Enter image name to save: output_image_name
    ```
    After you input the text and image name, the script will generate a high-quality PNG file with the specified name containing the QR code.
